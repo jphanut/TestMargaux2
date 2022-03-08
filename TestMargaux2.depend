@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1644489223 source:/home/margauxhanut/ProjectC/TestMargaux2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_strcasecmp.h"
+	"test_palindrome.h"
+
+1644471007 /home/margauxhanut/ProjectC/TestMargaux2/test_strcasecmp.h
+
+1644471027 source:/home/margauxhanut/ProjectC/TestMargaux2/test_strcasecmp.c
+	<stdio.h>
+	<stdlib.h>
+	"test_strcasecmp.h"
+
+1644487074 source:/home/margauxhanut/ProjectC/TestMargaux2/test_palindrome.c
+	<string.h>
+	<stdio.h>
+
+1644479520 /home/margauxhanut/ProjectC/TestMargaux2/test_palindrome.h
+
+1644509676 source:/home/margauxhanut/ProjectC/TestMargaux2/test_arguments.c
+	<stdio.h>
+	"test_arguments.h"
+
+1644489518 /home/margauxhanut/ProjectC/TestMargaux2/test_arguments.h
+
